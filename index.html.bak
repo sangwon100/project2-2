@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+	<title>Project 1-2</title>
+	<link rel="stylesheet" href="css/main.css" />
+	<link rel="icon" href="images/favicon.png" />
+	
+	<style>
+		#text1 {
+			text-align: center;
+			color: white;
+		}
+		
+		#color1 {
+			color: red;
+		}
+		
+		#color2 {
+			color: orange;
+		}
+		
+		#color3 {
+			color: yellow;
+		}
+		
+		#color4 {
+			color: lightgreen;
+		}
+		
+		#color5 {
+			color: green;
+		}
+		
+		#color6 {
+			color: blue;
+		}
+		
+		#color7 {
+			color: purple;
+		}
+		
+		#color8 {
+			color: white;
+		}
+		
+		p {
+		  font-size: 16px;
+		  line-height: 2em;
+		}
+		
+		span {
+		     font-size: 2ex;
+		}
+		
+		h1 {
+		    font-size: 200%;
+		}
+		
+		h2 {
+			font-size: 2rem;
+		}
+
+		
+		body {
+			background-color: black;
+		}
+		
+		.divv {
+			border: 5px outset white;
+			background-color: black;    
+			text-align: center;
+		}
+	</style>
+  </head>
+	
+  <body>
+    <p id="color8"><a href="https://sangwon100.github.io/project1-1/">Resume</a></p>
+	<p id="color8"><a href="https://sangwon100.github.io/project1-2/">Diary</a></p>
+	<p id="color8"><a href="https://sangwon100.github.io/project1-3/">Book report</a></p>
+    <h1 id="text1"><div class="divv">Kind of diary</div></h1>
+	<h2 id="color2">Outline</h2>
+	<p id="color8">I didn't know what to do with the second page topic for this page, so I wrote a little diary.</p>
+	<p id="color8">I thought it was a diary and wrote this page, but to be honest, I just wrote what I wanted to say.</p>
+	<h2 id="color6">Jan 27th 2022</h2>
+	<p id="color8">I'm not sure what the last topic will be, so I'll keep a diary with today's date. Today's date is January 27, 2022. The current weather is winter, and as we all know, the weather is very cold. Today's minus 5 degrees, compared to yesterday's minus 16 degrees... I think it's really warmed up a lot. The current time is 5 PM. I finished the lab 3 assignments and started the project. First of all, I wrote down the topic 'Professional resume' that I must write down. The subject was mainly told when I was in high school in China. At that time, the Chinese class was very difficult, but even now, my head hurts just thinking about it. To be honest, the diary I am writing now is the second topic. The last topic is still undecided what to do with it. A more serious problem is that I'm not sure if this way I'm doing the task is right. Maybe you should watch the lecture video again. There was nothing more to be written about. Oh, come to think of it, it snowed a lot outside. It is very rare to see so much snow in my hometown of Korea, except in rural areas. Seeing the snow piled up a lot seemed to heal my mood. It was almost evening time. I'm not hungry. Because I ate a lot at lunch. Maybe that's the reason, my stomach is starting to hurt right now. I'm sorry if I write something too detailed and it's uncomfortable to read, but I really can't think of what to write on this page. The moment I thought of this, I thought I wrote down quite a bit, so I'll check it out.</p>
+	<p id="color8">As a result of checking once, it was still insufficient. I'm going to try to write a little bit more because it's not expected that even including images will be enough to fill the desktop. I just checked once and was thirsty, so I bought a Coke from the vending machine installed in the basement. You can drink water, but today I wanted to drink Coke. It felt sweet and stinging in the throat. By the way, it is said that the weather will be much warmer tomorrow. It is said to be about 10 degrees higher. That's great news. It was always a pain to go to the restaurant to eat. My hometown, Korea, has rarely been this cold. Adapting to the cold weather wasn't easy, but seeing the snow piled up outside is just amazing.</p>
+	<img src="Jan27th.jpg" alt="picture of day"
+		 width="400"         
+		 height="300" /> <p id="color><span>It was the hour before dinner, but it was very dark outside.</span></p>
+	
+	<p id="color8">It's been quite some time. While I was writing this, I took a break in the middle and started watching YouTube, but the time passed really easily. It's already dark outside. Now, while I am writing this, I am contemplating what to do with the other topic. Originally, I was going to make this page like this diary the last page, but I couldn't come up with a topic, so I'm writing this for the second time. Originally, I was going to make a page to introduce Korea, but after thinking about it, I decided that Google could explain it more easily and in detail than I did, so I gave up. At this point, I think I've filled the page enough, so I'll just finish this diary.</p>
+  </body>
+</html>
