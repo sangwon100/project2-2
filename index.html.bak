@@ -10,9 +10,9 @@
   </head>
 	
   <body>
-    <p id="color8"><a href="https://sangwon100.github.io/project2-1/">Resume</a></p>
-	<p id="color8"><a href="https://sangwon100.github.io/project2-2/">Diary</a></p>
-	<p id="color8"><a href="https://sangwon100.github.io/project2-3/">Book report</a></p>
+    <p id="color8"><a href="https://sangwon100.github.io/project1-1/">Resume</a></p>
+	<p id="color8"><a href="https://sangwon100.github.io/project1-2/">Diary</a></p>
+	<p id="color8"><a href="https://sangwon100.github.io/project1-3/">Book report</a></p>
     <h1 id="text1"><div class="divv">Kind of diary</div></h1>
 	<h2 id="color2">Outline</h2>
 	<p id="color8">I didn't know what to do with the second page topic for this page, so I wrote a little diary.</p>
